@@ -1,0 +1,713 @@
+
+TIME0
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME1
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME2
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME3
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME4
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME5
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME6
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME7
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME8
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME9
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME10
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME11
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME12
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME13
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME14
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME15
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME16
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME17
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME18
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME19
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME20
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME21
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME22
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME23
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=24, serviceTime=2}
+Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME24
+Queue 1:
+Client{id=1, arrivalTime=24, serviceTime=2},
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME25
+Queue 1:
+Client{id=1, arrivalTime=24, serviceTime=1},
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: Client{id=2, arrivalTime=26, serviceTime=3}
+
+TIME26
+Queue 1:
+Queue 2:
+Client{id=2, arrivalTime=26, serviceTime=3},
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME27
+Queue 1:
+closed
+Queue 2:
+Client{id=2, arrivalTime=26, serviceTime=2},
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME28
+Queue 1:
+closed
+Queue 2:
+Client{id=2, arrivalTime=26, serviceTime=2},
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME29
+Queue 1:
+closed
+Queue 2:
+Client{id=2, arrivalTime=26, serviceTime=1},
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME30
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME31
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME32
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME33
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME34
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME35
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME36
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME37
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME38
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME39
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME40
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME41
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME42
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME43
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME44
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME45
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME46
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME47
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME48
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME49
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME50
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME51
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME52
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME53
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME54
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME55
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME56
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME57
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME58
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+TIME59
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+
+Waiting clients: 
+Average service time: 2.5
+Average waiting time: 2.5
+Peak time:24

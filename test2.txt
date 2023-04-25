@@ -1,0 +1,6277 @@
+
+TIME0
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=2, arrivalTime=7, serviceTime=5}
+Client{id=5, arrivalTime=7, serviceTime=5}
+Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME1
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=2, arrivalTime=7, serviceTime=5}
+Client{id=5, arrivalTime=7, serviceTime=5}
+Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME2
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=2, arrivalTime=7, serviceTime=5}
+Client{id=5, arrivalTime=7, serviceTime=5}
+Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME3
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=2, arrivalTime=7, serviceTime=5}
+Client{id=5, arrivalTime=7, serviceTime=5}
+Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME4
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=2, arrivalTime=7, serviceTime=5}
+Client{id=5, arrivalTime=7, serviceTime=5}
+Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME5
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=2, arrivalTime=7, serviceTime=5}
+Client{id=5, arrivalTime=7, serviceTime=5}
+Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME6
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=2, arrivalTime=7, serviceTime=5}
+Client{id=5, arrivalTime=7, serviceTime=5}
+Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME7
+Queue 1:
+Client{id=2, arrivalTime=7, serviceTime=5},
+Queue 2:
+Client{id=5, arrivalTime=7, serviceTime=5},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME8
+Queue 1:
+Client{id=2, arrivalTime=7, serviceTime=5},
+Queue 2:
+Client{id=5, arrivalTime=7, serviceTime=5},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME9
+Queue 1:
+Client{id=2, arrivalTime=7, serviceTime=5},
+Queue 2:
+Client{id=5, arrivalTime=7, serviceTime=5},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME10
+Queue 1:
+Client{id=2, arrivalTime=7, serviceTime=4},
+Queue 2:
+Client{id=5, arrivalTime=7, serviceTime=4},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME11
+Queue 1:
+Client{id=2, arrivalTime=7, serviceTime=4},
+Queue 2:
+Client{id=5, arrivalTime=7, serviceTime=4},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME12
+Queue 1:
+Client{id=2, arrivalTime=7, serviceTime=3},
+Queue 2:
+Client{id=5, arrivalTime=7, serviceTime=3},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME13
+Queue 1:
+Client{id=2, arrivalTime=7, serviceTime=3},
+Queue 2:
+Client{id=5, arrivalTime=7, serviceTime=3},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME14
+Queue 1:
+Client{id=2, arrivalTime=7, serviceTime=2},
+Queue 2:
+Client{id=5, arrivalTime=7, serviceTime=2},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME15
+Queue 1:
+Client{id=2, arrivalTime=7, serviceTime=2},
+Queue 2:
+Client{id=5, arrivalTime=7, serviceTime=2},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME16
+Queue 1:
+Client{id=2, arrivalTime=7, serviceTime=1},
+Queue 2:
+Client{id=5, arrivalTime=7, serviceTime=1},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME17
+Queue 1:
+Client{id=2, arrivalTime=7, serviceTime=1},
+Queue 2:
+Client{id=5, arrivalTime=7, serviceTime=1},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME18
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME19
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=4, arrivalTime=20, serviceTime=4}
+Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME20
+Queue 1:
+Client{id=4, arrivalTime=20, serviceTime=4},
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME21
+Queue 1:
+Client{id=4, arrivalTime=20, serviceTime=4},
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME22
+Queue 1:
+Client{id=4, arrivalTime=20, serviceTime=4},
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME23
+Queue 1:
+Client{id=4, arrivalTime=20, serviceTime=3},
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME24
+Queue 1:
+Client{id=4, arrivalTime=20, serviceTime=3},
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=1, arrivalTime=25, serviceTime=4}
+Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME25
+Queue 1:
+Client{id=4, arrivalTime=20, serviceTime=2},
+Queue 2:
+Client{id=1, arrivalTime=25, serviceTime=4},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME26
+Queue 1:
+Client{id=4, arrivalTime=20, serviceTime=2},
+Queue 2:
+Client{id=1, arrivalTime=25, serviceTime=4},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME27
+Queue 1:
+Client{id=4, arrivalTime=20, serviceTime=1},
+Queue 2:
+Client{id=1, arrivalTime=25, serviceTime=3},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME28
+Queue 1:
+closed
+Queue 2:
+Client{id=1, arrivalTime=25, serviceTime=2},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME29
+Queue 1:
+closed
+Queue 2:
+Client{id=1, arrivalTime=25, serviceTime=1},
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME30
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME31
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME32
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME33
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: Client{id=3, arrivalTime=34, serviceTime=3}
+
+TIME34
+Queue 1:
+Client{id=3, arrivalTime=34, serviceTime=3},
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME35
+Queue 1:
+Client{id=3, arrivalTime=34, serviceTime=3},
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME36
+Queue 1:
+Client{id=3, arrivalTime=34, serviceTime=2},
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME37
+Queue 1:
+Client{id=3, arrivalTime=34, serviceTime=1},
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME38
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME39
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME40
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME41
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME42
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME43
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME44
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME45
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME46
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME47
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME48
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME49
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME50
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME51
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME52
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME53
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME54
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME55
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME56
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME57
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME58
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+TIME59
+Queue 1:
+closed
+Queue 2:
+closed
+Queue 3:
+closed
+Queue 4:
+closed
+Queue 5:
+closed
+Queue 6:
+closed
+Queue 7:
+closed
+Queue 8:
+closed
+Queue 9:
+closed
+Queue 10:
+closed
+Queue 11:
+closed
+Queue 12:
+closed
+Queue 13:
+closed
+Queue 14:
+closed
+Queue 15:
+closed
+Queue 16:
+closed
+Queue 17:
+closed
+Queue 18:
+closed
+Queue 19:
+closed
+Queue 20:
+closed
+Queue 21:
+closed
+Queue 22:
+closed
+Queue 23:
+closed
+Queue 24:
+closed
+Queue 25:
+closed
+Queue 26:
+closed
+Queue 27:
+closed
+Queue 28:
+closed
+Queue 29:
+closed
+Queue 30:
+closed
+Queue 31:
+closed
+Queue 32:
+closed
+Queue 33:
+closed
+Queue 34:
+closed
+Queue 35:
+closed
+Queue 36:
+closed
+Queue 37:
+closed
+Queue 38:
+closed
+Queue 39:
+closed
+Queue 40:
+closed
+Queue 41:
+closed
+Queue 42:
+closed
+Queue 43:
+closed
+Queue 44:
+closed
+Queue 45:
+closed
+Queue 46:
+closed
+Queue 47:
+closed
+Queue 48:
+closed
+Queue 49:
+closed
+Queue 50:
+closed
+
+Waiting clients: 
+Average service time: 4.2
+Average waiting time: 4.2
+Peak time:7
